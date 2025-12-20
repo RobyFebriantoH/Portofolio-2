@@ -202,8 +202,8 @@ header {
     display: flex;
     gap: 1rem;
     margin-bottom: 2rem;
-    margin-top: -2rem;
     
+    padding-top: 2rem;
 }
 
 .img-about img {
@@ -216,6 +216,7 @@ header {
 .info-text {
     position: relative;
     bottom: -7px;
+
 }
 
 .info-text p {
